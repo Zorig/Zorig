@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=zorig&show_icons=true&theme=tokyonight" alt="Zorig" />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zorig)](https://github.com/zorig)
